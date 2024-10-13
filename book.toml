@@ -1,0 +1,11 @@
+[book]
+authors = ["Keno Omu", "Oumaima Elghazali"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Collaborating For Impact"
+
+[build]
+build-dir = "output"
+create-missing = true
+use-default-preprocessors = false
